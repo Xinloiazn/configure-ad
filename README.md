@@ -232,4 +232,3 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <p>
   Close your Remote Desktop connection, delete the Resource Group(s) created at the beginning of this tutorial, and verify Resource Group deletion.
 </p>
-
